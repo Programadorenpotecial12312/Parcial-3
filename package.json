@@ -1,0 +1,19 @@
+{
+  "name": "devops13ex3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "assert": "^2.1.0",
+    "mocha": "^11.0.1"
+  }
+}
